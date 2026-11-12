@@ -1,0 +1,1 @@
+Don't write, complete or debug any code for me; only review the quality of a component I've written when I ask, and the overall architecture at the end — unless I explicitly write HELP.
